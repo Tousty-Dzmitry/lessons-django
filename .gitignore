@@ -3,3 +3,4 @@ __pycache__/
 *$py.class
 .python-version
 .idea/
+db.sqlite3
